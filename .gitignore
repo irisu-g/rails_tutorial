@@ -24,3 +24,11 @@
 
 # Ignore Spring files.
 /spring/*.pid
+
+#DS_Store
+*DS_Store
+
+#emacs_bk_file
+*.rb~
+*.erb~
+*.scss~
