@@ -29,6 +29,5 @@
 *DS_Store
 
 #emacs_bk_file
-*.rb~
-*.erb~
-*.scss~
+*~
+*#
